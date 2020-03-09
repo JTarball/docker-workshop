@@ -4,7 +4,6 @@ When you issue a docker build command, the current working directory is called t
 
 By default, the Dockerfile is assumed to be located here
 
-You can of course use specific your own
-
+You can of course use specific your own dockerfile
 
 Exercise: Try and build the following file 'Dockerfile.redis'
